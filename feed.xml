@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>It's Noon in Israel (Amit Segal) — Audio</title>
+    <link>https://cweyers4.github.io/its-noon-in-israel-audio/</link>
+    <language>en-us</language>
+    <itunes:type>episodic</itunes:type>
+    <description>Amit Segal&#x27;s daily &#x27;It&#x27;s Noon in Israel&#x27; newsletter, read aloud by a neural voice. Unofficial, personal-use feed for a paid subscriber.</description>
+    <itunes:author>Amit Segal</itunes:author>
+    <itunes:summary>Amit Segal&#x27;s daily &#x27;It&#x27;s Noon in Israel&#x27; newsletter, read aloud by a neural voice. Unofficial, personal-use feed for a paid subscriber.</itunes:summary>
+    <itunes:owner><itunes:name>It's Noon in Israel (Amit Segal) — Audio</itunes:name></itunes:owner>
+    <itunes:image href="https://cweyers4.github.io/its-noon-in-israel-audio/cover.jpg"/>
+    <itunes:category text="News"><itunes:category text="Politics"/></itunes:category>
+    <itunes:explicit>false</itunes:explicit>
+    <image><url>https://cweyers4.github.io/its-noon-in-israel-audio/cover.jpg</url><title>It's Noon in Israel (Amit Segal) — Audio</title><link>https://cweyers4.github.io/its-noon-in-israel-audio/</link></image>
+    <item>
+      <title>Monday, July 13, 2026 — The Monster Beneath the Mountain</title>
+      <description>It&#x27;s Noon in Israel by Amit Segal, Monday, July 13, 2026, read aloud.</description>
+      <itunes:author>Amit Segal</itunes:author>
+      <enclosure url="https://cweyers4.github.io/its-noon-in-israel-audio/2026-07-13.mp3" length="4566288" type="audio/mpeg"/>
+      <guid isPermaLink="false">noon-2026-07-13</guid>
+      <pubDate>Mon, 13 Jul 2026 12:00:00 +0000</pubDate>
+      <itunes:episode>7</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>00:09:30</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Sunday, July 12, 2026 — Israel Loses Its Greatest Friend on Capitol Hill</title>
+      <description>It&#x27;s Noon in Israel by Amit Segal, Sunday, July 12, 2026, read aloud.</description>
+      <itunes:author>Amit Segal</itunes:author>
+      <enclosure url="https://cweyers4.github.io/its-noon-in-israel-audio/2026-07-12.mp3" length="6100560" type="audio/mpeg"/>
+      <guid isPermaLink="false">noon-2026-07-12</guid>
+      <pubDate>Sun, 12 Jul 2026 12:00:00 +0000</pubDate>
+      <itunes:episode>6</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>00:12:42</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Friday, July 10, 2026 — Exclusive: Rahm Emanuel&#x27;s Reckoning in Jerusalem</title>
+      <description>It&#x27;s Noon in Israel by Amit Segal, Friday, July 10, 2026, read aloud.</description>
+      <itunes:author>Amit Segal</itunes:author>
+      <enclosure url="https://cweyers4.github.io/its-noon-in-israel-audio/2026-07-10.mp3" length="7318416" type="audio/mpeg"/>
+      <guid isPermaLink="false">noon-2026-07-10</guid>
+      <pubDate>Fri, 10 Jul 2026 12:00:00 +0000</pubDate>
+      <itunes:episode>5</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>00:15:14</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Thursday, July 9, 2026 — The Art of No Deal</title>
+      <description>It&#x27;s Noon in Israel by Amit Segal, Thursday, July 9, 2026, read aloud.</description>
+      <itunes:author>Amit Segal</itunes:author>
+      <enclosure url="https://cweyers4.github.io/its-noon-in-israel-audio/2026-07-09.mp3" length="4119120" type="audio/mpeg"/>
+      <guid isPermaLink="false">noon-2026-07-09</guid>
+      <pubDate>Thu, 09 Jul 2026 12:00:00 +0000</pubDate>
+      <itunes:episode>4</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>00:08:34</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Wednesday, July 8, 2026 — Trump Declares Memorandum of Understanding &quot;Dead&quot;</title>
+      <description>It&#x27;s Noon in Israel by Amit Segal, Wednesday, July 8, 2026, read aloud.</description>
+      <itunes:author>Amit Segal</itunes:author>
+      <enclosure url="https://cweyers4.github.io/its-noon-in-israel-audio/2026-07-08.mp3" length="4707408" type="audio/mpeg"/>
+      <guid isPermaLink="false">noon-2026-07-08</guid>
+      <pubDate>Wed, 08 Jul 2026 12:00:00 +0000</pubDate>
+      <itunes:episode>3</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>00:09:48</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Tuesday, July 7, 2026 — Turkey Ascending</title>
+      <description>It&#x27;s Noon in Israel by Amit Segal, Tuesday, July 7, 2026, read aloud.</description>
+      <itunes:author>Amit Segal</itunes:author>
+      <enclosure url="https://cweyers4.github.io/its-noon-in-israel-audio/2026-07-07.mp3" length="4596816" type="audio/mpeg"/>
+      <guid isPermaLink="false">noon-2026-07-07</guid>
+      <pubDate>Tue, 07 Jul 2026 12:00:00 +0000</pubDate>
+      <itunes:episode>2</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>00:09:34</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Monday, July 6, 2026 — The War of Optics</title>
+      <description>It&#x27;s Noon in Israel by Amit Segal, Monday, July 6, 2026, read aloud.</description>
+      <itunes:author>Amit Segal</itunes:author>
+      <enclosure url="https://cweyers4.github.io/its-noon-in-israel-audio/2026-07-06.mp3" length="4643856" type="audio/mpeg"/>
+      <guid isPermaLink="false">noon-2026-07-06</guid>
+      <pubDate>Mon, 06 Jul 2026 12:00:00 +0000</pubDate>
+      <itunes:episode>1</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>00:09:40</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+  </channel>
+</rss>
